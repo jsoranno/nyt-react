@@ -38,3 +38,4 @@ jspm_packages
 
 # stormpath auth
 .yml
+../../Week1/stormpath.yml
